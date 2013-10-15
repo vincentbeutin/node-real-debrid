@@ -9,7 +9,7 @@
     "dependencies": {
         "request": "2.x",
         "url": "0.7.x",
-        "request-progress": "3.x.x",
+        "request-progress": "0.3.x",
         "humanize": "0.0.x"
     }
 }
