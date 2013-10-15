@@ -1,0 +1,14 @@
+{
+    "name": "real-debrid",
+    "description": "Easy way to debrid link with real-debrid",
+    "author": "Vincent Beutin <vincent.beutin@gmail.com>",
+    "version": "0.0.1",
+    "private": false,
+    "main": "real-debrid.js",
+    "dependencies": {
+        "request": "2.x",
+        "url": "0.7.x",
+        "request-progress": "3.x.x",
+        "humanize": "0.0.x"
+    }
+}
